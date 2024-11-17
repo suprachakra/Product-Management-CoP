@@ -6,7 +6,7 @@
 2. [Use Case Context](#use-case-context)  
    - [Organization Overview](#organization-overview)  
 3. [Charter for Product Management CoP](#charter-for-product-management-cop)  
-   - [Vision](#vision)  
+   - [1.Vision](#1-vision)  
    - [Mission](#mission)  
    - [Objectives](#objectives)  
    - [Scope](#scope)  
@@ -56,7 +56,7 @@ The CoP integrates into the organization’s delivery framework to improve prior
 
 ---
 
-### **1. Vision**
+### **Vision**
 
 - **Purpose**:  
   Build a sustainable, collaborative, and innovative network of product managers who address real-world challenges, set industry benchmarks, and continuously enhance delivery.
@@ -72,7 +72,7 @@ The CoP integrates into the organization’s delivery framework to improve prior
 
 ---
 
-### **2. Mission**
+### **Mission**
 
 - **Empowerment**:  
   Equip teams with tools to enhance backlog prioritization, roadmap planning, and dependency management through standardized resources.
@@ -89,7 +89,7 @@ The CoP integrates into the organization’s delivery framework to improve prior
 
 ---
 
-### **3. Objectives**
+### **Objectives**
 
 | **Objective**                | **Detailed Explanation**                                                                 |
 |------------------------------|-----------------------------------------------------------------------------------------|
@@ -106,7 +106,7 @@ The CoP integrates into the organization’s delivery framework to improve prior
 
 ---
 
-### **4. Scope**
+### **Scope**
 
 - **In-Scope**:  
   1. Launching the CoP with clear deliverables and metrics.  
