@@ -2,32 +2,34 @@
 ---
 # Table of Contents
 
-1. [Executive Summary](#1-executive-summary)
-2. [Use Case Context](#2-use-case-context)
-3. [Charter for Product Management CoP](#3-charter-for-product-management-cop)
-   - [Vision](#31-vision)
-   - [Mission](#32-mission)
-   - [Objectives](#33-objectives)
-   - [Scope](#34-scope)
-   - [Governance Structure](#35-governance-structure)
-4. [Deliverables](#4-deliverables)
-   - [SAFe-Aligned Charter](#41-safe-aligned-charter)
-   - [Iteration-Ready Templates](#42-iteration-ready-templates)
-     - [WSJF Backlog Prioritization Template](#421-wsjf-backlog-prioritization-template)
-     - [Dependency Mapping Playbook](#422-dependency-mapping-playbook)
-     - [Risk Assessment and Mitigation Template](#423-risk-assessment-and-mitigation-template)
-   - [Knowledge Repository](#43-knowledge-repository)
-   - [Gamification Framework](#44-gamification-framework)
-   - [PI-Driven Event Calendar](#45-pi-driven-event-calendar)
-   - [Engagement Metrics Dashboard](#46-engagement-metrics-dashboard)
-   - [Scalability Roadmap](#47-scalability-roadmap)
-   - [External Benchmarking Insights](#48-external-benchmarking-insights)
-5. [Metrics for Success](#5-metrics-for-success)
-6. [Risks and Mitigations](#6-risks-and-mitigations)
-7. [Next Steps](#7-next-steps)
+1. [Executive Summary](#executive-summary)  
+2. [Use Case Context](#use-case-context)  
+   - [Organization Overview](#organization-overview)  
+3. [Charter for Product Management CoP](#charter-for-product-management-cop)  
+   - [Vision](#vision)  
+   - [Mission](#mission)  
+   - [Objectives](#objectives)  
+   - [Scope](#scope)  
+   - [Governance Structure](#governance-structure)  
+4. [Deliverables](#deliverables)  
+   - [SAFe-Aligned Charter](#safe-aligned-charter)  
+   - [Iteration-Ready Templates](#iteration-ready-templates)  
+     - [WSJF Backlog Prioritization Template](#wsjf-backlog-prioritization-template)  
+     - [Dependency Mapping Playbook](#dependency-mapping-playbook)  
+     - [Risk Assessment and Mitigation Template](#risk-assessment-and-mitigation-template)  
+   - [Knowledge Repository](#knowledge-repository-searchable-and-categorized-hub)  
+   - [Gamification Framework](#gamification-strategies)  
+   - [PI-Driven Event Calendar](#pi-driven-event-calendar)  
+   - [Engagement Metrics Dashboard](#engagement-metrics-dashboard)  
+   - [Scalability Roadmap](#scalability-roadmap)  
+   - [External Benchmarking Insights](#external-benchmarking-insights)  
+5. [Metrics for Success](#metrics-for-success)  
+6. [Risks and Mitigations](#risks-and-mitigations)  
+7. [Next Steps](#next-steps)
 
 ---
-### **1. Executive Summary**
+
+### **Executive Summary**
 
 The **Product Management Community of Practice (CoP)** is a strategic initiative designed to enhance collaboration, streamline product management practices, and deliver measurable business impact in a large, complex organization. Operating across multiple Agile Release Trains (ARTs) and business domains, the CoP aligns with SAFe principles to produce actionable, sprint-ready resources, foster cross-functional collaboration, and establish a centralized knowledge hub.
 
@@ -35,7 +37,7 @@ The CoP integrates into the organization’s delivery framework to improve prior
 
 ---
 
-### **2. Use Case Context**
+### **Use Case Context**
 
 #### **Organization Overview**:
 - **Scale**: Global operations with multiple divisions, each running its own ARTs.
