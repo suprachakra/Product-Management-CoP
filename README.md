@@ -25,6 +25,23 @@
    - 6.3 [Knowledge Repository](#63-knowledge-repository-searchable-and-categorized-hub)
    - 6.4 [Gamification Strategies](#64-gamification-strategies)
    - 6.5 [PI-Driven Event Calendar](#65-pi-driven-event-calendar)
+
+6.3.[Knowledge Repository: Searchable and Categorized Hub](#63-knowledge-repository-searchable-and-categorized-hub)
+  - 6.3.1 [Core Repository Content](#core-repository-content)  
+  - 6.3.2 [JIRA Dashboards: Knowledge Repository](#jira-dashboards-knowledge-repository)  
+  - 6.3.3 [Implementation Plan](#implementation-plan)  
+  - 6.3.4 [Engagement and Adoption](#engagement-and-adoption)  
+  - 6.3.5 [Risks and Mitigations](#risks-and-mitigations)  
+  - 6.3.6 [Next Steps](#next-steps)  
+  - 6.3.7 [Conclusion](#conclusion)
+
+ 6.4.[Gamification Strategies](#64-gamification-strategies)  
+   - 6.4.1 [Core Challenges Table](#core-challenges-table)  
+   - 6.4.2 [Dynamic Features and Enhancements](#dynamic-features-and-enhancements)  
+   - 6.4.3 [Metrics for Success](#metrics-for-success)
+   - 6.4.4 [Risks and Mitigations](#risks-and-mitigations)
+   - 6.4.5 [Visualization Examples](#visualization-examples)
+   - 6.4.6 [Integration with CoP Goals](#integration-with-cop-goals)
   
 6. [PI-Driven Event Calendar](#65-pi-driven-event-calendar)
    - 6.1 [Quarterly Themes and Focus](#quarterly-themes-and-focus)  
