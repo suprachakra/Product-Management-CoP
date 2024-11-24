@@ -16,8 +16,8 @@
    - 4.2 Out-of-Scope
 5. [Governance Structure](#5-governance-structure)
    - 5.1 Roles and Responsibilities
-6. [Deliverables](#deliverables)
-   - 6.1 [SAFe-Aligned Charter](#safe-aligned-charter)
+6. [Deliverables](#6-deliverables)
+   - 6.1 [Charter](#6-deliverables)
    - 6.2 [Iteration-Ready Templates](#iteration-ready-templates)
      - 6.2.1 [WSJF Backlog Prioritization Template](#wsjf-backlog-prioritization-template)
      - 6.2.2 [Dependency Mapping Playbook](#dependency-mapping-playbook)
