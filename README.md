@@ -12,8 +12,8 @@
    - 3.2 [Mission](#mission)
    - 3.3 [Objectives](#objectives)
 4. [Scope](#scope)
-   - 4.1 [In-Scope](#in-scope)
-   - 4.2 [Out-of-Scope](#out-of-scope)
+   - 4.1 In-Scope
+   - 4.2 Out-of-Scope
 5. [Governance Structure](#governance-structure)
    - 5.1 [Roles and Responsibilities](#roles-and-responsibilities)
 6. [Deliverables](#deliverables)
