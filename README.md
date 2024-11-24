@@ -370,7 +370,7 @@ The **Knowledge Repository** is a central pillar of the CoP, designed to empower
 
 | **Feature**                    | **Description**                                                                                  |
 |--------------------------------|--------------------------------------------------------------------------------------------------|
-| **Searchable Hub**              | AI-powered search and advanced filters for quick access to templates, guides, and tutorials.    |
+| **Searchable Hub**              | Search and advanced filters for quick access to templates, guides, and tutorials.    |
 | **Categorized Content**         | Organized by themes (e.g., WSJF, Dependency Mapping, Risk Management) and team needs.           |
 | **Business Impact Dashboard**   | Tracks metrics like cost savings, delivery improvements, and onboarding efficiency.             |
 | **Version Control**             | Automates template updates and notifies teams of new versions.                                 |
@@ -511,7 +511,7 @@ The JIRA dashboards are integral to tracking repository usage, template adoption
 |-----------------------------------------|---------------------------------|------------------------------------------------------------------------------------------------------------|
 | **Low Engagement**                      | Reduced repository adoption.   | Gamify contributions and highlight repository impact in CoP meetings.                                      |
 | **Outdated Resources**                  | Misaligned team practices.     | Automate version control and set quarterly review cycles for all content.                                  |
-| **Inefficient Search**                  | Time wasted finding resources. | Implement advanced filters and AI-powered search suggestions.                                              |
+| **Inefficient Search**                  | Time wasted finding resources. | Implement advanced filters and search suggestions.                                              |
 | **Governance Bottlenecks**              | Content updates delayed.       | Distribute governance among ART-level curators with a central curator for oversight.                       |
 | **Over-Reliance on Confluence**         | Platform limitations.          | Maintain content backups in open formats like PDF or CSV for adaptability.                                 |
 
