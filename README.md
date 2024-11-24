@@ -244,15 +244,8 @@ Failure to address these challenges could result in an estimated 20% increase in
 | 🎯 **Strategic Alignment**    | Ensure CoP outputs (e.g., templates, playbooks) are tightly linked with enterprise goals such as time-to-market, NPS, and cost savings. |
 | 📋 **Actionable Deliverables**| Produce sprint-ready resources (e.g., backlog refinement templates) tailored for immediate adoption and use. |
 | 🌐 **Collaboration & Sharing**| Build a culture of shared learning through workshops, retrospectives, and repository-driven collaboration. |
-| 🌱 **Scalability**            | Scale in phases:  
-  - **Phase 1**: Pilot with 2 ARTs, ensuring a minimum of 70% participation and 60% deliverable adoption before proceeding.  
-  - **Phase 2**: Gradual expansion to additional ARTs after achieving 80% adoption and confirming resource readiness.  
-  - **Phase 3**: Enterprise-wide rollout with tailored adaptations, incorporating feedback and ensuring capacity to scale effectively. |
-| 💹 **Engagement & ROI**       | Demonstrate measurable value:  
-  - 10% improvement in time-to-market.  
-  - 15% fewer dependency-related delays.
-  - Develop a comprehensive change management plan to address potential resistance and ensure smooth adoption.
-  - Track leadership participation in CoP events, aiming for at least 75% attendance in key meetings and 100% support in resource allocation.
+| 🌱 **Scalability**            | Scale in phases:<br >- **Phase 1**: Pilot with 2 ARTs, ensuring a minimum of 70% participation and 60% deliverable adoption before proceeding.<br >- **Phase 2**: Gradual expansion to additional ARTs after achieving 80% adoption and confirming resource readiness.<br >- **Phase 3**: Enterprise-wide rollout with tailored adaptations, incorporating feedback and ensuring capacity to scale effectively. |
+| 💹 **Engagement & ROI**       | Demonstrate measurable value:<br >- 10% improvement in time-to-market.<br >- 15% fewer dependency-related delays.<br >- Develop a comprehensive change management plan to address potential resistance and ensure smooth adoption.<br >- Track leadership participation in CoP events, aiming for at least 75% attendance in key meetings and 100% support in resource allocation.
 
 ---
 
