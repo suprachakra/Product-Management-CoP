@@ -50,7 +50,7 @@ Failure to address these challenges could result in an estimated 20% increase in
 ---
 
 ### **Use Case Context**
-
+---
 #### **Organization Overview**:
 - **Scale**: Global operations with multiple divisions, each running its own ARTs.
 - **Complexity**: High interdependencies across teams, business units, and external vendors.
