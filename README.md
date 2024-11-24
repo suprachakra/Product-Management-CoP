@@ -962,8 +962,8 @@ The **Scalability Roadmap** outlines a phased, structured approach to expand the
 | **Phase**                | **Objective**                                                | **Key Activities**                                                                                      | **Success Metrics**                                               |
 |--------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | **Phase 1: Pilot**       | Test CoP framework with 1–2 ARTs.                          | - Launch CoP in 1–2 ARTs.<br>- Test deliverables (e.g., WSJF templates).<br>- Monitor metrics and gather feedback. | - 70% participation in initial workshops.<br>- 60% deliverable adoption.<br>- Positive feedback (4/5). |
-| **Phase 2: Expansion**   | Scale CoP activities to additional ARTs.                   | - Roll out CoP to 3–5 additional ARTs.<br>- Host inter-ART workshops.<br>- Introduce dependency mapping frameworks. | - 75% participation across ARTs.<br>- 70% adoption of CoP outputs.<br>- 80% dependency resolution rate. |
-| **Phase 3: Integration** | Expand to additional domains like UX, Engineering.         | - Develop cross-domain templates.<br>- Host domain-specific workshops.<br>- Publish domain-aligned resources. | - 80% domain participation.<br>- 25% repository contribution growth.<br>- Cross-domain success metrics. |
+| **Phase 2: Expansion**   | Scale CoP activities to additional ARTs.                   | - Advance only after meeting Phase 1 metrics and confirming resource readiness.<br>- Roll out CoP to 3–5 additional ARTs.<br>- Host inter-ART workshops.<br>- Introduce dependency mapping frameworks. | - 75% participation across ARTs.<br>- 70% adoption of CoP outputs.<br>- 80% dependency resolution rate. |
+| **Phase 3: Integration** | Expand to additional domains like UX, Engineering.         | - Incorporate feedback and ensure capacity before scaling to additional domains.<br>- Develop cross-domain templates.<br>- Host domain-specific workshops.<br>- Publish domain-aligned resources. | - 80% domain participation.<br>- 25% repository contribution growth.<br>- Cross-domain success metrics. |
 | **Phase 4: Scaling**     | Scale CoP activities globally.                            | - Standardize CoP frameworks for enterprise-wide adoption.<br>- Create localization guides.<br>- Align CoP goals with global KPIs. | - 85% global participation.<br>- 80% adoption of deliverables.<br>- 10% reduction in delivery delays. |
 | **Phase 5: Optimization**| Continuously evolve CoP deliverables and activities.      | - Conduct retrospectives and bi-annual reviews.<br>- Introduce themes (e.g., innovation sprints).<br>- Regularly update deliverables. | - 85%+ participation.<br>- High adoption of new deliverables.<br>- 90% positive feedback. |
 
@@ -975,7 +975,9 @@ The **Scalability Roadmap** outlines a phased, structured approach to expand the
 |--------------------------|-------------------------------------------------------------------------------------------------------|
 | **CoP Steering Committee**| Define strategic goals, oversee scaling efforts, and ensure alignment with organizational objectives. |
 | **Domain Leads**          | Drive CoP activities within specific domains and ensure domain-specific adoption.                     |
-| **Knowledge Curators**    | Maintain the repository, ensure resources are relevant, and facilitate knowledge sharing.              |
+| **Knowledge Curators**    | Maintain the repository, ensure resources are relevant, and facilitate knowledge sharing.             |
+| **Regional CoP Reps**     | Address geographical differences and facilitate local adaptations while maintaining overall alignment.|
+
 
 #### **Decision-Making Mechanisms**
 | **Mechanism**              | **Purpose**                                                                                         |
