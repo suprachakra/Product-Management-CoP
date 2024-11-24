@@ -11,7 +11,7 @@
    - 3.1 [Vision](#vision)
    - 3.2 [Mission](#mission)
    - 3.3 [Objectives](#objectives)
-4. [Scope](#scope)
+4. [Scope](#4-scope)
    - 4.1 In-Scope
    - 4.2 Out-of-Scope
 5. [Governance Structure](#5-governance-structure)
@@ -126,7 +126,7 @@ Failure to address these challenges could result in an estimated 20% increase in
 
 ---
 
-### **Scope**
+### **4. Scope**
 
 - **In-Scope**:  
   1. Launching the CoP with clear deliverables and metrics.  
