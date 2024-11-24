@@ -14,8 +14,8 @@
 4. [Scope](#scope)
    - 4.1 In-Scope
    - 4.2 Out-of-Scope
-5. [Governance Structure](#governance-structure)
-   - 5.1 [Roles and Responsibilities](#roles-and-responsibilities)
+5. [Governance Structure](#5-governance-structure)
+   - 5.1 Roles and Responsibilities
 6. [Deliverables](#deliverables)
    - 6.1 [SAFe-Aligned Charter](#safe-aligned-charter)
    - 6.2 [Iteration-Ready Templates](#iteration-ready-templates)
