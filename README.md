@@ -21,12 +21,12 @@
 **5. [Governance Structure](#governance-structure)**
    - 5.1 Roles and Responsibilities
 
-**6. [Deliverables](#deliverables)**
-   - [6.1 Charter](#charter)
-   - **6.2 Iteration-Ready Templates**
-     - [6.2.1 WSJF Backlog Prioritization Template](#wsjf-backlog-prioritization-template)
-     - [6.2.2 Dependency Mapping Playbook](#dependency-mapping-playbook)
-     - [6.2.3 Risk Assessment and Mitigation Template](#risk-assessment-and-mitigation-template)
+**6. [Deliverables]((#6-deliverables))**
+   - [6.1 Charter]((#6-deliverables))
+   - **[6.2 Iteration-Ready Templates](#62-iteration-ready-templates)**
+     - [6.2.1 WSJF Backlog Prioritization Template](#621-wsjf-backlog-prioritization-template)
+     - [6.2.2 Dependency Mapping Playbook](#622-dependency-mapping-playbook)
+     - [6.2.3 Risk Assessment and Mitigation Template](#623-risk-assessment-and-mitigation-template)
    - **6.3 Knowledge Repository**
      - [6.3.1 Core Repository Content](#core-repository-content)
      - [6.3.2 JIRA Dashboards](#jira-dashboards)
