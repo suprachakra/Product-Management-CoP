@@ -25,6 +25,14 @@
    - 6.3 [Knowledge Repository](#63-knowledge-repository-searchable-and-categorized-hub)
    - 6.4 [Gamification Strategies](#64-gamification-strategies)
    - 6.5 [PI-Driven Event Calendar](#65-pi-driven-event-calendar)
+  
+6. [PI-Driven Event Calendar](#65-pi-driven-event-calendar)
+   - 6.1 [Quarterly Themes and Focus](#quarterly-themes-and-focus)  
+   - 6.2 [Detailed 3-Quarter Calendar](#detailed-3-quarter-calendar)  
+   - 6.3 [Projections for Quarters 4–5](#projections-for-quarters-45)  
+   - 6.4 [Key Metrics for Success](#key-metrics-for-success)  
+   - 6.5 [Swim Lanes](#swim-lanes)  
+   - 6.6 [Risks and Mitigations](#risks-and-mitigations)
      
 7. [Engagement Metrics](#66-engagement-metrics)
    - 7.1 [Key Metrics](#key-metrics)  
