@@ -28,10 +28,14 @@
 7. [Engagement Metrics](#66-engagement-metrics)
    - 7.1 [Key Metrics](#key-metrics)
    - 7.2 [Dashboard Features](#dashboard-features)
+     
 8. [Scalability Roadmap](#67-scalability-roadmap)
-   - 8.1 [Phased Plan](#phased-plan-for-scalability)
-   - 8.2 [Governance Framework](#governance-framework)
-   - 8.3 [Localization and Adaptation](#localization-and-adaptation)
+   - 8.1 [Phased Plan for Scalability](#phased-plan-for-scalability)  
+   - 8.2 [Governance Framework](#governance-framework)  
+   - 8.3 [Localization and Adaptation](#localization-and-adaptation)  
+   - 8.4 [Risks and Mitigations](#risks-and-mitigations)  
+   - 8.5 [Metrics for Scalability](#metrics-for-scalability)  
+   - 8.6 [Scalability Roadmap Timeline](#scalability-roadmap-timeline)
 
 9. [External Benchmarking Insights](#68-external-benchmarking-insights)
    - 9.1 [Benchmarking Approach](#benchmarking-approach)  
