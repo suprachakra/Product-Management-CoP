@@ -5,9 +5,9 @@
 **1. [Executive Summary](#executive-summary)**
 
 **2. [Use Case Context](#use-case-context)**
-   - [2.1 Organization Overview](#organization-overview)
-   - [2.2 Challenges](#challenges)
-   - [2.3 Strategic Goals](#strategic-goals)
+   - 2.1 Organization Overview
+   - 2.2 Challenges
+   - 2.3 Strategic Goals
 
 **3. [Charter for Product Management CoP](#charter-for-product-management-cop)**
    - [3.1 Vision](#vision)
