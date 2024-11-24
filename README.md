@@ -25,9 +25,15 @@
    - 6.3 [Knowledge Repository](#63-knowledge-repository-searchable-and-categorized-hub)
    - 6.4 [Gamification Strategies](#64-gamification-strategies)
    - 6.5 [PI-Driven Event Calendar](#65-pi-driven-event-calendar)
+     
 7. [Engagement Metrics](#66-engagement-metrics)
-   - 7.1 [Key Metrics](#key-metrics)
-   - 7.2 [Dashboard Features](#dashboard-features)
+   - 7.1 [Key Metrics](#key-metrics)  
+   - 7.2 [Dashboard Features](#dashboard-features)  
+   - 7.3 [Implementation Plan](#implementation-plan)  
+   - 7.4 [Sample Dashboard Layout](#sample-dashboard-layout)  
+   - 7.5 [Risks and Mitigations](#risks-and-mitigations)  
+   - 7.6 [Use Cases](#use-cases)  
+   - 7.7 [Visual Enhancements](#visual-enhancements)
      
 8. [Scalability Roadmap](#67-scalability-roadmap)
    - 8.1 [Phased Plan for Scalability](#phased-plan-for-scalability)  
