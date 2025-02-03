@@ -1,4 +1,4 @@
-# 1. Executive Summary
+## 1. Executive Summary
 
 The **Product Management Community of Practice (CoP)** is a strategic initiative, fully endorsed by executive leadership, designed to enhance collaboration, streamline product management practices, and deliver measurable business impact in a large, complex organization.
 
